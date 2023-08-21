@@ -3,3 +3,437 @@
     margin: 0;
     padding: 0;
 }
+.sayt
+{
+    width: 1440px;
+    height: 800px;
+    /* border: 2px solid black; */
+    margin: auto;
+
+}
+.navbar
+{
+    width: 1440px;
+    height: 109px;
+    top: 4px;
+    /* border: 2px solid red; */
+    display: flex;
+    gap: 750px;
+
+}
+.navbar .left img
+{
+    width: 69px;
+    height: 73px;
+    top: 18.213966369628906px;
+    margin-left: 65px ; 
+
+}
+.right
+{
+    width: 564px;
+    height: 45px;
+    top: 32px;
+    left: 811.203125px;
+     /* border: 2px solid black; */
+     margin-top:32px;
+     display: flex;
+}
+.right ul 
+{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    /* margin-top:32px; */
+}
+.right ul li a
+{
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700px;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 25px;
+
+}
+.navbar .right button
+{
+    width: 100px;
+    height: 25px;
+    border-radius: 8px;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #F7859C;
+    border: 2px solid #F7859C;
+    color: #FFFF;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+.sayt h4
+{
+    width: 133px;
+    height: 25px;
+    left: 208.5px;
+    margin-left: 700px;
+    margin-top: 90px;
+    
+}
+.sayt h1
+{
+    margin-left:  60px;    
+    font-family: Montserrat;
+    font-size: 97px;
+    font-weight: 700;
+    line-height: 87px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+.sayt p{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #404756;
+    margin-top: 45px;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+.sayt button
+{
+    width: 135px;
+    height: 45px;
+    border-radius: 8px;
+    border: 2px solid  #F7859C;
+    background-color: #F7859C;
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;   
+    width: 80px;
+    height: 26px;
+    top: 8px; 
+    margin-left: 700px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+.vec1
+{
+    width: 434px;
+    height: 534px;
+    top: -180.125px;
+    left: -230.203125px;
+    margin-top:-300px;
+    margin-left: 900px;
+    
+}
+.person1
+{
+    width: 260px;
+    height: 427px;
+    top: -0.125px;
+    left: -0.203125px;
+    margin-left: 1050px;
+    margin-top: -550px;
+    
+}
+.shar
+{
+    width: 245px;
+    height: 251px;
+    top: 250.875px;
+    left: -156.203125px;
+    margin-left: 900px;
+    margin-top: -500px;
+    
+}
+.vec2
+{
+    width: 404px;
+    height: 434px;
+    top: 14.5625px;
+    left: -158.796875px;
+   margin-top: -1000px;    
+}
+.person2
+{
+    width: 260px;
+    height: 404px;
+    top: -0.4375px;
+    left: 0.203125px; 
+    margin-top: -880px; 
+    margin-left: -400px;
+
+}
+.sharcha2
+{
+    width: 260px;
+    height: 214px;
+    top: -0.4375px;
+    left: 0.203125px  ;  
+    margin-top: -600px;
+    margin-left: 200px;
+    float: left;
+}
+.sayt2
+{
+    width: 1440px;
+    height: 829.515625px;
+    top: 992px;
+    /* border: 2px solid black; */
+    margin: auto;
+    margin-top: 200px;
+    
+}
+
+.vec
+{
+    margin-top: 600px;
+    width: 34px;
+    height: 36px;
+    top: -13px;
+    left: -13.5px;
+    margin-left: 660px;
+    margin-top: -300px;
+    
+}
+.sayt2 h2
+{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: -30px;
+    /* margin-top: 100px; */
+    
+}
+.sayt2 h1
+{
+    font-family: Montserrat;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 50px;
+   
+    
+}
+.box
+{
+    width: 300px;
+    height: 599px;
+    top: 24.5px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 150px;
+    
+    
+}
+.box h3
+{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+
+    
+}
+.box p
+{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.border
+{
+    margin-top: 30px;
+    border: 1px solid #535454;
+}
+.border2
+{
+    margin-top: 30px;
+    border: 1px solid #535454;
+}
+.rasm
+{
+    width: 600px;
+    height: 600px;
+    top: 164px;
+    left: 1387px;
+    margin-left: 250px;
+    margin-top: 120px   ; 
+    
+}
+.fon
+{
+    width: 1440px;
+    height: 137px;
+    top: 0.484375px;
+    /* border: 2px solid black; */
+    background-image: url(IMAGE\ \(1\).png);
+    margin: auto;
+    
+}
+.sayt3
+{
+    width: 1440px;
+    height: 3625px;
+    top: 137.484375px;
+    margin: auto;
+    /* border: 2px solid black; */
+    background-color: #FBF1E6;
+    
+}
+.vector
+{
+    width: 32.98917007446289px;
+    height: 35.78523254394531px;
+    top: 0.118408203125px;
+    left: 0.11065673828125px;
+    margin-top: 127px;
+    margin-left: 217px;
+    
+}
+.sayt3 h3
+{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: -29px;
+    margin-left: 230px;    
+}
+.sayt3 h1
+{
+    font-family: Montserrat;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #222222;
+    margin-left: 229px;
+    margin-top: 29px;
+    
+}
+.border3
+{
+    width: 1190px;
+    margin-left: 250px;
+    top: 68.484375px;
+    left: -0.390625px;
+    border: 1px solid #40475699;
+    margin-top: 68px;
+       
+}
+.box1 
+{
+    width: 979.21875px;
+    height: 505px;
+    top: 137px;
+    margin-left: 230px;
+    
+}
+.box1 h1
+{
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    /* text-align: left; */
+    margin-left: 0px;
+    margin-top: 35px;
+  
+    
+}
+.box1 h4
+{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    float: left;
+    margin-left: 0px;
+    margin-top: 20px;
+
+    
+}
+.nuqta
+{
+    width: 112.5px;
+    height: 18px;
+    left: 87.5px;
+    padding: 0px 5.390625px 0px 0.109375px;
+    margin-top: 20px;
+    margin-left: 5px;
+    
+}
+.box1 p
+{
+    width: 336px;
+    height: 126px;
+    top: 106.484375px;
+    left: -0.390625px;    
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+    
+}
+.person
+{
+    width: 340px;
+    height: 380px;
+    margin-left: 600px;
+    margin-top: 50px;
+    /* float: left; */
+    margin: right;  
+    margin-top: -200px; 
+   
+    
+    
+}
+.fon2
+{
+    width: 1440px;
+    height: 137px;
+    top: 0.484375px;
+    /* border: 2px solid black; */
+    background-image: url(IMAGE\ \(7\).png);
+    margin: auto;
+    margin-top: 250px;
+    
+}
